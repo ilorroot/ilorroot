@@ -4,3 +4,8 @@
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any idea that has a good value in it.
 
+
+
+## Notes
+
+<!-- TODO: expand this section -->
