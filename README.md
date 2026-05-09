@@ -8,4 +8,4 @@
 
 ## Notes
 
-<!-- TODO: expand this section -->
+<!-- TODO: expand this section with specific skills, projects, or achievements -->
