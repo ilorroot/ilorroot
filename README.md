@@ -10,6 +10,8 @@
 
 <!-- TODO: expand this section with specific skills, projects, or achievements -->
 
+## Skills
+
 
 ## Notes
 
