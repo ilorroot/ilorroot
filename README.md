@@ -8,7 +8,7 @@
 
 ## Notes
 
-<!-- TODO: expand this section with specific skills, projects, or achievements -->
+<!-- TODO: expand this section with specific skills, projects, and achievements -->
 
 ## Skills
 
